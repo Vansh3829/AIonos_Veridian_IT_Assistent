@@ -1,0 +1,11 @@
+ticket_id,employee,issue_summary,status,state
+TK-1042,R. Verma,VPN credential expired,Resolved,CLOSED
+TK-1043,S. Iyer,Laptop replacement (3.2 yrs old),Approved — pending fulfillment,ACTIVE
+TK-1044,A. Khan,Non-catalog software request,Pending Security review,ACTIVE
+TK-1045,P. Joshi,Mailbox quota increase,Approved at 35GB,CLOSED
+TK-1046,M. Das,"Printer paper jam, floor 2",Resolved,CLOSED
+TK-1047,K. Singh,Home office equipment request,Pending Finance,ACTIVE
+TK-1048,T. Rao,Phishing email reported,Escalated to Security — under investigation,ACTIVE
+TK-1049,V. Nambiar,Password reset,Resolved,CLOSED
+TK-1050,J. Fernandes,Admin access request,Rejected — no business justification provided,CLOSED
+TK-1051,L. Menon,Guest Wi-Fi issued,Resolved,CLOSED

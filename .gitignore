@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+venv/
+.venv/
+
+# Data / runtime artifacts
+veridian.db
+chroma_db/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
